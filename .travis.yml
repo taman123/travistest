@@ -12,6 +12,8 @@ android:
   licenses:
       - 'android-sdk-preview-license-52d11cd2'
       - 'android-sdk-license-.+'
+      - 'android-sdk-buildtools-.+'
+      - 'android-sdk-platform-.+'
       - 'google-gdk-license-.+'
 
   script:
